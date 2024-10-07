@@ -1,0 +1,7 @@
+### Add a new product
+POST http://localhost:5142/api/products
+Content-Type: application/json
+
+### Get a product
+GET http://localhost:5142/api/products/1
+Accept: application/json
